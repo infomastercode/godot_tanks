@@ -16,7 +16,7 @@ Bullet = ExtResource( 3 )
 max_speed = 200
 rotation_speed = 1.0
 gun_cooldown = 0.5
-health = 100
+max_health = 100
 turret_speed = 1.0
 detect_radius = 400
 

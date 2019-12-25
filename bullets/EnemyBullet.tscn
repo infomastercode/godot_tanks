@@ -7,7 +7,7 @@
 extents = Vector2( 12.8474, 7.63641 )
 
 [node name="Bullet" instance=ExtResource( 1 )]
-speed = 750
+speed = 800
 damage = 10
 lifetime = 0.5
 
